@@ -1,0 +1,16 @@
+mfcc\interpolationfunctionsf16.o: E:\keil-arm\ARM\CMSIS-DSP\1.14.4\Source\InterpolationFunctions\InterpolationFunctionsF16.c
+mfcc\interpolationfunctionsf16.o: E:\keil-arm\ARM\CMSIS-DSP\1.14.4\Source\InterpolationFunctions\arm_bilinear_interp_f16.c
+mfcc\interpolationfunctionsf16.o: E:\keil-arm\ARM\CMSIS-DSP\1.14.4\Include\dsp/interpolation_functions_f16.h
+mfcc\interpolationfunctionsf16.o: E:\keil-arm\ARM\CMSIS-DSP\1.14.4\Include\arm_math_types_f16.h
+mfcc\interpolationfunctionsf16.o: E:\keil-arm\ARM\CMSIS-DSP\1.14.4\Include\arm_math_types.h
+mfcc\interpolationfunctionsf16.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+mfcc\interpolationfunctionsf16.o: E:\keil-arm\ARM\ARMCC\Bin\..\include\stdint.h
+mfcc\interpolationfunctionsf16.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+mfcc\interpolationfunctionsf16.o: E:\keil-arm\ARM\ARMCC\Bin\..\include\string.h
+mfcc\interpolationfunctionsf16.o: E:\keil-arm\ARM\ARMCC\Bin\..\include\math.h
+mfcc\interpolationfunctionsf16.o: E:\keil-arm\ARM\ARMCC\Bin\..\include\float.h
+mfcc\interpolationfunctionsf16.o: E:\keil-arm\ARM\ARMCC\Bin\..\include\limits.h
+mfcc\interpolationfunctionsf16.o: E:\keil-arm\ARM\CMSIS-DSP\1.14.4\Include\arm_math_memory.h
+mfcc\interpolationfunctionsf16.o: E:\keil-arm\ARM\CMSIS-DSP\1.14.4\Include\dsp/none.h
+mfcc\interpolationfunctionsf16.o: E:\keil-arm\ARM\CMSIS-DSP\1.14.4\Include\dsp/utils.h
+mfcc\interpolationfunctionsf16.o: E:\keil-arm\ARM\CMSIS-DSP\1.14.4\Source\InterpolationFunctions\arm_linear_interp_f16.c

@@ -1,0 +1,10 @@
+mfcc\mfccdata.o: mfccdata.c
+mfcc\mfccdata.o: mfccdata.h
+mfcc\mfccdata.o: E:\keil-arm\ARM\CMSIS-DSP\1.14.4\Include\arm_math_types.h
+mfcc\mfccdata.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+mfcc\mfccdata.o: E:\keil-arm\ARM\ARMCC\Bin\..\include\stdint.h
+mfcc\mfccdata.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+mfcc\mfccdata.o: E:\keil-arm\ARM\ARMCC\Bin\..\include\string.h
+mfcc\mfccdata.o: E:\keil-arm\ARM\ARMCC\Bin\..\include\math.h
+mfcc\mfccdata.o: E:\keil-arm\ARM\ARMCC\Bin\..\include\float.h
+mfcc\mfccdata.o: E:\keil-arm\ARM\ARMCC\Bin\..\include\limits.h
